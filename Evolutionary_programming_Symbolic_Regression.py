@@ -391,7 +391,7 @@ def nodes_avail(tree_node_def, depth):
   return nodes
 
 
-if "__name__" == "__main__":
+if __name__ == "__main__":
   # Bool for plot animation
   show_animation=True
   # these will be used in real code
